@@ -1,0 +1,18 @@
+img {
+  max-width: 95% !important;
+  height: auto;
+}
+
+.fa-star,
+.fa-star-half {
+  color: #fdcc0d;
+  padding: 3% 0%;
+}
+
+.cart-items + .cart-items {
+  padding: 2% 0;
+}
+
+.price-details h6 {
+  padding: 3% 2%;
+}
